@@ -10,6 +10,7 @@ public class OneApplication {
         SpringApplication.run(OneApplication.class, args);
         System.out.println();
         System.out.println("11111");
+        System.out.println("22222");
     }
 
 }
